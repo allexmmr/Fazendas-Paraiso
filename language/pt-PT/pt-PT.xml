@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: pt-PT.xml 19864 2011-07-24 10:53:43Z admin@joomlapt.com horus68 $ -->
+<metafile version="1.7" client="site" method="upgrade" >
+	<tag>pt-PT</tag>
+	<name>Português (pt-PT)</name>
+	<description>Português pt-PT. Idioma de site para Joomla 1.7. Com acordo ortográfico</description>
+	<version>1.7.0</version>
+	<creationDate>2011-07-24</creationDate>
+	<author>Comunidade Portuguesa JoomlaPT!</author>
+	<authorEmail>www.joomlapt.com</authorEmail>
+	<authorUrl>www.joomlapt.com</authorUrl>
+	<copyright>Copyright (C) 2005 - 2011 Open Source Matters. Todos os direitos reservados.</copyright>
+	<license>Licença GNU GPL2 ou posterior; ver LICENSE.txt</license>
+	<metadata>
+		<name>Português (pt-PT)</name>
+		<tag>pt-PT</tag>
+		<rtl>0</rtl>
+		<locale>pt_PT.utf8, pt_PT.UTF-8, pt_PT, pt, portuguese</locale>
+		<firstDay>1</firstDay>
+	</metadata>
+	<params />
+</metafile>

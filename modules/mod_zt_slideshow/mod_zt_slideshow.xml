@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="1.6.0"
+	client="site"
+	method="upgrade">
+	<name>ZT SlideShow</name>
+	<author>ZooTemplate</author>
+	<creationDate>Jan 05 2011</creationDate>
+	<copyright>ZooTemplate.Com</copyright>
+	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>	
+	<authorEmail>support@zootemplate.com</authorEmail>
+	<authorUrl>www.zootemplate.com</authorUrl>
+	<version>1.6.0</version>
+	<description>ZT Slideshow allows you to quickly and easily display a selection of images and transition between them.</description>
+	<files>
+		<filename module="mod_zt_slideshow">mod_zt_slideshow.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl/</folder>
+		<folder>assets/</folder>
+	</files>
+
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="PARAMMODULECLASSSUFFIX" />
+				<field name="folder" type="text" default="images/stories/food/" size="50" label="Folder" description="Folder" /> 
+				<field name="order" type="list" default="0" label="Sort Order" description="The Sor Order of The Images">
+					<option value="0">Ascending</option>
+					<option value="1">Descending</option>
+					<option value="2">Random</option>
+				</field>
+				<field name="autorun" type="radio" default="1" label="Autorun" description="Enable or Disable Autorun">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="transition" type="list" default="fade" label="Animation Type" description="Animation Type">
+					<option value="fade">Fade</option>
+					<option value="fadeslideleft">Fade and Right-to-Left</option>
+					<option value="fadeslideright">Fade and Left-to-Right</option>
+					<option value="continuoushorizontal">Right-to-Left</option>
+					<option value="continuoushorizontalright">Left-to-Right</option>
+					<option value="continuousvertical">Buttom-Up</option>
+					<option value="continuousverticalbuttom">Top-Down</option>
+				</field>
+				<field name="width" type="text" default="180" label="Width (PX)" description="The Width of Slide" /> 
+				<field name="height" type="text" default="82" label="Height (PX)" description="The Height of Slide" /> 
+				<field name="duration" type="text" default="500" label="Transition Duration" description="Transition Duration" /> 
+				<field name="delay" type="text" default="5000" label="Delay Time" description="Time delay between each content" />
+				<field name="@spacer" type="spacer" default="" label="" description="" />
+				<field name="background" type="text" default="FFFFFF" label="Background color" description="Background Color" /> 
+				<field name="arrows" type="radio" default="0" label="Show Arrows" description="Show Arrows">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="showtitle" type="radio" default="0" label="Show Title" description="Enable or Disable The Title">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="showdescription" type="radio" default="0" label="Show Description" description="Enable or Disable The Description">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="linkable" type="radio" default="1" label="Image linkable" description="Image Linkable">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="newwindow" type="radio" default="0" label="Open New Windown" description="Open News Window">
+					<option value="0">No</option>
+					<option value="1">Yes</option>
+				</field>
+				<field name="intro_lenght" type="text" default="200" label="Description Lenght" description="Description Lenght" />
+				<field name="@spacer" type="spacer" default="" label="" description="" />
+				<field name="title" type="textarea" cols="50" rows="15" default="" label="Titles" description="Titles" />
+				<field name="link" type="textarea" cols="50" rows="15" default="" label="Links" description="Links" />
+				<field name="description" type="textarea" cols="50" rows="15" default="" label="Descriptions" description="Descriptions" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>

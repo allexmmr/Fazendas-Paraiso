@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="1.6.0" method="upgrade">
+	<name>com_tmp</name>
+	<creationDate>8/2/2011</creationDate>
+	<author>ZooTemplate.com</author>
+	<copyright>ZooTemplate</copyright>
+	<authorEmail>support@zootemplate.com</authorEmail>
+	<authorUrl>www.zootemplate.com</authorUrl>
+	<version>1.7.0</version>
+	<description><![CDATA[<h1>ZT Hemi17 - The cool template for Education </h1><strong>Thank you very much for using our services.<br />Please visit <a href="http://www.zootemplate.com" title="Joomla Templates">Joomla Templates</a> Club for any further support.</strong>]]></description>
+	
+	<installfile>install.php</installfile>
+  	<uninstallfile>uninstall.php</uninstallfile>
+	
+	<files folder="components/com_tmp">		
+		<filename>index.html</filename>		
+	</files>
+	
+	<administration>		
+		<files folder="administrator/components/com_tmp">		
+			<filename>index.html</filename>		
+		</files>
+	</administration>				
+	
+	<plugins>
+		<plugin plugin="plg_ztools" group="system" />
+	</plugins>
+	
+	<templates>
+  		<template template="zt_hemi17" />
+  	</templates>
+</extension>

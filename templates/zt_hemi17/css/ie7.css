@@ -1,0 +1,24 @@
+/*------------------------------------------------------------------------
+* ZT Template 1.7
+* ------------------------------------------------------------------------
+* Copyright (c) 2008-2011 ZooTemplate. All Rights Reserved.
+* @license - Copyrighted Commercial Software
+* Author: ZooTemplate
+* Websites:  http://www.zootemplate.com
+-------------------------------------------------------------------------*/
+
+#menusys_mega .menusub_mega .menusub_mega{
+	margin: -50px 0px 0px 1px !important;
+}
+.rtl div.subwrapcenter-left{
+	padding-left: 13px;
+	margin-left: 0px;
+
+}
+.rtl div.subwrapcenter-right{
+	padding-right: 12px;
+	margin-right: -1px;
+}
+#menusys_mega .menusub_mega {
+	margin-top: -5px !important;
+}
