@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>Paraiso</name>
+	<version>1.0</version>
+	<creationDate>2009</creationDate>
+	<author>Allex Rocha</author>
+	<authorEmail>allexmr@globo.com</authorEmail>
+	<copyright>Mundo da Informatica</copyright>
+	<license>Mundo da Informatica</license>
+	<authorUrl>www.mundodainformatica.com</authorUrl>
+	<description>Template da Fazenda Paraiso.</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>params.ini</filename>
+		<filename>templates.php</filename>
+		<filename>images/banner_01.jpg</filename>
+		<filename>images/banner_02.jpg</filename>
+		<filename>images/content_bg.jpg</filename>
+		<filename>images/content_bottom.jpg</filename>
+		<filename>images/h3.jpg</filename>
+		<filename>images/header.jpg</filename>
+		<filename>images/hover.gif</filename>
+		<filename>images/indent1.png</filename>
+		<filename>images/indent2.png</filename>
+		<filename>images/indent3.png</filename>
+		<filename>images/indent4.png</filename>
+		<filename>images/index.html</filename>
+		<filename>images/menu.jpg</filename>
+		<filename>images/menu_active.jpg</filename>
+		<filename>images/menu_bg.jpg</filename>
+		<filename>images/menu_row.jpg</filename>
+		<filename>images/spacer.png</filename>
+		<filename>images/sub_menu_row.jpg</filename>
+		<filename>css/index.html</filename>
+		<filename>css/template.css</filename>
+		<filename>css/editor.css</filename>
+		<filename>css/ie6.css</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">en-GB.tpl_Paraiso.ini</language>
+	</languages>
+	<administration>
+	    <languages folder="admin">
+			<language tag="en-GB">en-GB.tpl_Paraiso.ini</language>
+		</languages>
+    </administration>
+</install>

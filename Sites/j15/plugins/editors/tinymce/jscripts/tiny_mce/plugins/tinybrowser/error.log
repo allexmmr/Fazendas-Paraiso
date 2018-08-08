@@ -1,0 +1,239 @@
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	mkdir() [<a href='function.mkdir'>function.mkdir</a>]: Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2009-05-23 13:20:56 (CEST)	2 Warning	opendir(C:/xampp/htdocsC:\xampp\htdocs\eclipse\k2102sample\images\stories) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2009-05-23 13:20:56 (CEST)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2009-05-23 13:20:56 (CEST)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:34 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:34 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:34 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:42 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: edit.php	Line: 262	
+2009-05-23 13:57:42 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: edit.php	Line: 263	
+2009-05-23 13:57:42 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:43 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: edit.php	Line: 262	
+2009-05-23 13:57:43 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: edit.php	Line: 263	
+2009-05-23 13:57:43 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:43 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: edit.php	Line: 262	
+2009-05-23 13:57:43 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: edit.php	Line: 263	
+2009-05-23 13:57:43 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:43 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: edit.php	Line: 262	
+2009-05-23 13:57:43 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: edit.php	Line: 263	
+2009-05-23 13:57:43 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:43 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: edit.php	Line: 262	
+2009-05-23 13:57:43 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: edit.php	Line: 263	
+2009-05-23 13:57:43 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: edit.php	Line: 266	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:46 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:46 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:46 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:57:50 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:57:50 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:57:50 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesarticles.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesclock.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_com.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_lang.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_mod.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesext_plugin.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesjoomla-dev_cycle.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storieskey.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespastarchives.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiespowered_by.png) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiestaking_notes.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-23 13:59:17 (CEST)	2 Warning	filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 108	
+2009-05-23 13:59:17 (CEST)	2 Warning	filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg	File: tinybrowser.php	Line: 109	
+2009-05-23 13:59:17 (CEST)	2 Warning	getimagesize(C:/xampp/htdocs/eclipse/k2102sample/images/storiesweb_links.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory	File: tinybrowser.php	Line: 112	
+2009-05-24 11:48:07 (CEST)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'C:/xampp/htdocs/eclipse/k2102sample/images/stories/sig/_thumbs/_027_pics.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2009-05-24 11:48:08 (CEST)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'C:/xampp/htdocs/eclipse/k2102sample/images/stories/sig/_thumbs/_034_pics.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2009-05-24 11:48:08 (CEST)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open 'C:/xampp/htdocs/eclipse/k2102sample/images/stories/sig/_thumbs/_044_pics.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2009-12-20 19:42:15 (BRST)	8 Notice	Undefined offset:  1	File: fns_tinybrowser.php	Line: 244	
+2009-12-20 19:42:15 (BRST)	8 Notice	Undefined offset:  0	File: fns_tinybrowser.php	Line: 340	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 46	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 58	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 58	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined variable: filestr	File: upload.php	Line: 59	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 59	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 59	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 120	
+2010-05-06 23:32:26 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 120	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 46	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 58	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 58	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined variable: filestr	File: upload.php	Line: 59	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 59	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 59	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 120	
+2010-06-15 17:20:05 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 120	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 46	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 58	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  	File: upload.php	Line: 58	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined variable: filestr	File: upload.php	Line: 59	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 59	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  	File: upload.php	Line: 59	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 120	
+2010-10-19 07:19:00 (BRST)	8 Notice	Undefined index:  	File: upload.php	Line: 120	
+2010-11-28 02:12:17 (BRST)	8 Notice	Undefined offset:  1	File: fns_tinybrowser.php	Line: 244	
+2010-11-28 02:12:17 (BRST)	8 Notice	Undefined offset:  0	File: fns_tinybrowser.php	Line: 340	
+2011-02-05 21:54:14 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 46	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 58	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined index:  	File: upload.php	Line: 58	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined variable: filestr	File: upload.php	Line: 59	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 59	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined index:  	File: upload.php	Line: 59	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined index:  type	File: upload.php	Line: 120	
+2011-02-05 21:54:15 (BRST)	8 Notice	Undefined index:  	File: upload.php	Line: 120	
+2011-02-18 19:32:06 (BRST)	8 Notice	Undefined offset:  1	File: fns_tinybrowser.php	Line: 244	
+2011-02-18 19:32:06 (BRST)	8 Notice	Undefined offset:  0	File: fns_tinybrowser.php	Line: 340	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 46	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 58	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 58	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined variable: filestr	File: upload.php	Line: 59	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 59	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 59	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  type	File: upload.php	Line: 120	
+2011-02-24 14:35:26 (BRT)	8 Notice	Undefined index:  	File: upload.php	Line: 120	
