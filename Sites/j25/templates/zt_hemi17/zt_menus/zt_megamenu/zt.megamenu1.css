@@ -1,0 +1,300 @@
+.menusys_mega {
+	width: 100%;
+	
+}
+.menusub_mega {
+	display: none;
+}
+
+/*
+*	SubMega Level1
+*/
+#menusys_mega {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	width: 100%;
+}
+
+#menusys_mega li {
+	float: left;
+	padding:  0;
+	display: block;
+	background: url(../../images/main-li.jpg) no-repeat top right;
+	
+}
+#menusys_mega li a {
+	display: inline-block;
+	text-decoration: none;
+	position: relative;
+	z-index: 999;
+	width: auto;
+	margin: 0;
+}
+#menusys_mega li .menu-title {
+	padding: 5px 25px 5px 5px;
+	line-height: 26px;
+	display: block;
+	color: #fff;
+	width: auto;
+	margin-left: 15px;
+	font-size: 	133.3%;
+	font-family:"Georgia";
+}
+#menusys_mega li:hover a,
+#menusys_mega li a:hover,
+#menusys_mega li a:active,
+#menusys_mega li a:focus,
+#menusys_mega li a.active,
+#menusys_mega li a.active:hover,
+#menusys_mega li a.active:active,
+#menusys_mega li a.active:focus {
+	background: none;
+	
+}
+#menusys_mega li:hover .menu-title,
+#menusys_mega li a:hover .menu-title,
+#menusys_mega li a:active .menu-title,
+#menusys_mega li a:focus .menu-title,
+#menusys_mega li a.active .menu-title,
+#menusys_mega li a.active:hover .menu-title,
+#menusys_mega li a.active:active .menu-title,
+#menusys_mega li a.active:focus .menu-title {
+	color: #fff;
+	background: none;
+}
+
+/* SubMega Level1 - HasChild*/
+
+#menusys_mega li.hasChild  .menu-title{
+	line-height: 26px;
+	padding: 5px 15px 5px 5px;
+	margin-left: 10px;
+	background: none;
+	
+}
+#menusys_mega li.hasChild a.active,
+#menusys_mega li.hasChild a.active:hover,
+#menusys_mega li.hasChild a.active:active,
+#menusys_mega li.hasChild a.active:focus {
+	background: none;
+}
+#menusys_mega li.hasChild a.active .menu-title{
+	background: none;
+}
+#menusys_mega li.hasChild:hover a,
+#menusys_mega li.hasChild a:hover,
+#menusys_mega li.hasChild a:active,
+#menusys_mega li.hasChild a:focus,
+#menusys_mega li.hasChild a.active:hover{
+	/*background: none;*/
+}
+#menusys_mega li.hasChild:hover .menu-title,
+#menusys_mega li.hasChild a:hover .menu-title,
+#menusys_mega li.hasChild:hover a.active .menu-title,
+#menusys_mega li.hasChild a.active:hover .menu-title{
+	padding-bottom: 10px;
+	background: none;
+}
+
+
+/*
+*	SubMega Level2
+*/
+#menusys_mega .submenu-wrap{
+	position: relative;
+	float: left;
+	height: auto;
+	display: inline-block;
+	clear: both;
+}
+#menusys_mega .menusub_mega {
+	margin-top: -1px !important;
+	margin-left: 10px !important;
+	padding: 0;
+	position: absolute;
+	z-index: 666;
+	background: #2b81c6;
+	border: 1px solid #4897d8;
+}
+
+/*
+*	SubMega Level1- Megacol
+*/
+
+#menusys_mega .megacol  .menusub_mega {
+	margin-top: -20px !important;
+	margin-left: -10px !important;
+}
+#menusys_mega .megacol .megacol .megacol .menusub_mega {
+	margin-left: -10px !important;
+}
+#menusys_mega .menu-desc{
+	padding: 0 0px 5px 0;
+	border: none;
+	display: block;
+	font-size: 110%;
+	color: #575244;
+}
+#menusys_mega .menu-image {
+	border: none;
+	float: left;
+	line-height: 44px;
+	padding: 8px 0 0;
+	margin-right: 3px;
+}
+#menusys_mega span.has-image {
+	display: block;
+	background-repeat: no-repeat;
+	background-position: 2px 7px;
+}
+#menusys_mega ul.mega-ul a.item span.no-image,
+#menusys_mega ul.mega-ul a.active span.no-image {
+	display: block;
+	background: url(../../images/mega/arrow1.png) no-repeat 5px -45px;
+}
+#menusys_mega ul.mega-ul a:hover span.no-image:hover{
+	background: url(../../images/mega/arrow1.png) no-repeat 5px -45px;
+}
+
+#menusys_mega .megacol {
+	float: left;
+	width: 170px;
+	padding: 5px 10px;
+	display: block;
+}
+#menusys_mega .megacol .megacol{padding: 0;}
+#menusys_mega .megacol .megacol .megacol{padding: 0px;}
+#menusys_mega .megacol ul li.hasChild .megacol{
+	padding: 5px 10px;	
+}
+#menusys_mega .megacol ul.mega-ul {
+	padding: 5px 0;
+	margin: 0;
+}
+#menusys_mega .megacol ul li {
+	padding: 1px 0;
+	float: none;
+	display: block;
+	background: none;
+	border-bottom: 1px dotted #1d6cac;
+}
+#menusys_mega .megacol ul li.hasChild {
+	background: url(../../images/mega/arrow-ltr.png) no-repeat 100% 7px;
+}
+#menusys_mega .menusub_mega .mega-module {
+	clear: both;
+	color: #fff;
+	line-height: 20px;
+}
+
+/*
+*	SubMega Level2- Megagroup
+*/
+#menusys_mega .menusub_mega div.mega-header{
+	display: none;
+}
+#menusys_mega .menusub_mega .mega-group {
+	width: 100%;
+	display: inline-block;
+	padding-bottom: 1px;
+	background: url(../../images/mega/group-line.png) no-repeat 0 bottom;
+	
+}
+#menusys_mega .mega-group span.has-image,
+#menusys_mega .mega-group span.no-image{
+	margin: 0;
+	padding: 3px 0 3px 10px;
+	display: block;
+}
+#menusys_mega .mega-group span.has-image{
+	padding: 3px 0 3px 25px;
+	height: 25px;
+}
+#menusys_mega .widget-right .mega-group span.has-image {
+	padding: 0 5px 0 50px;
+	background-position: 0% 5px;
+}
+#menusys_mega li.hasChild .mega-group a{
+	padding-left: 0;
+	background: none  ;
+}
+#menusys_mega li.hasChild .mega-group a:hover{
+	/*background: #212121 ;*/
+	display: block;
+}
+#menusys_mega li.hasChild .mega-group a .menu-title,
+#menusys_mega li.hasChild .mega-group a:hover .menu-title,
+#menusys_mega li.hasChild .mega-group a.active .menu-title{
+	padding: 0;
+	margin: 0;
+	font-size: 13px;
+	font-weight: bold;
+	color: #efefec;
+	background: none ;
+	text-transform: none;
+	font-family:"Georgia";
+	line-height: 25px;
+	
+}
+
+/*
+*	SubMega Level2
+*/
+#menusys_mega li.hasChild  ul a,
+#menusys_mega li.hasChild  ul a.active,
+#menusys_mega li.hasChild:hover ul a {
+	padding-left: 0px;
+	margin: 0;
+	display: block;
+	background: none;
+	z-index: 9;
+	position: static;
+}
+
+#menusys_mega li.hover ul.mega-ul a .menu-title,
+#menusys_mega li.hasChild ul.mega-ul li a .menu-title,
+#menusys_mega li.hasChild ul.mega-ul li a.active .menu-title,
+#menusys_mega li.hasChild ul.mega-ul li a.focus .menu-title{
+	line-height: 23px;
+	height: 25px;
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: block;
+	color: #ebeadc ;
+	font-size: 100% ;
+	font-weight: normal;
+	text-transform: none;
+	font-family:"Georgia";
+	background: none ;
+	text-shadow: 1px 1px 1px #256ba6;
+}
+
+#menusys_mega li.hasChild  ul a span.has-image .menu-title,
+#menusys_mega li.hasChild:hover  ul a span.has-image .menu-title,
+#menusys_mega li.hasChild  ul a:hover span.has-image .menu-title{
+	padding: 0 0 0 25px;
+	margin: 0;
+	background: none;
+}
+#menusys_mega li.hasChild  ul a:hover ,
+#menusys_mega li.hasChild  ul a:active,
+#menusys_mega li.hasChild  ul a:focus,
+#menusys_mega li.hasChild  ul.mega-ul  a.active:hover {
+	text-decoration: none;
+	margin: 0;
+	display: block;
+	background: #212121 ;
+}
+
+#menusys_mega li.hover  ul.mega-ul a:hover .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a:hover .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a:active .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a:focus .menu-title,
+#menusys_mega li.hasChild  ul.mega-ul a.active:hover .menu-title{
+	color: #ffde00;
+	text-shadow: none;
+	margin: 0;
+	padding: 0 0 0 15px;
+	background: none;
+}

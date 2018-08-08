@@ -1,0 +1,168 @@
+/*------------------------------------------------------------------------
+* ------------------------------------------------------------------------
+* Copyright (c) 2008-2011 ZooTemplate. All Rights Reserved.
+* @license - Copyrighted Commercial Software
+* Author: ZooTemplate
+* Websites:  http://www.zootemplate.com
+-------------------------------------------------------------------------*/
+
+html {
+	direction: rtl;
+	text-align: right;
+}
+
+/*** ZT HEADER ***/
+
+.rtl #zt-logo {
+    float: right;
+}
+.rtl #zt-mainmenu {
+	padding: 0 5px 0 0;
+    float: left;
+}
+
+/***	MEGA MENU	***/
+.rtl #menusys_mega .mega-group span.has-image{padding: 3px 20px 3px 0;}
+.rtl #menusys_mega span.has-image{
+	background-position: 100% 5px;
+}
+.rtl #menusys_mega li {
+    float: right;
+}
+.rtl span.has-image {
+    background-position: 100% 4px;
+    background-repeat: no-repeat;
+    padding-left: 0;
+    padding-right: 20px;
+}
+
+.rtl #menusys_mega {
+	float: left;
+}
+.rtl #menusys_mega .megacol {
+    float: right;
+}
+
+
+.rtl div.subwrapcenter-right{
+	padding-right: 12px;
+	margin-right: -1px;
+}
+.rtl #menusys_mega .menu-image {
+	float: right;
+	margin-left: 3px;
+	margin-right: 0;
+}
+.rtl #menusys_mega ul.mega-ul a.item span.no-image,
+.rtl #menusys_mega ul.mega-ul a.active span.no-image {
+	display: block;
+	background: url(../images/mega/arrow2.png) no-repeat 98% -45px;
+}
+.rtl #menusys_mega ul.mega-ul a:hover span.no-image:hover{
+	background: url(../images/mega/arrow2.png) no-repeat 98% -45px;
+}
+
+.rtl #menusys_mega li.hover ul.mega-ul a .menu-title,
+.rtl #menusys_mega li.hasChild ul.mega-ul li a .menu-title,
+.rtl #menusys_mega li.hasChild ul.mega-ul li a.active .menu-title,
+.rtl #menusys_mega li.hasChild ul.mega-ul li a.focus .menu-title{
+	padding: 0 15px 0 0;
+}
+.rtl #menusys_mega .megacol ul li.hasChild {
+	background: url(../images/mega/arrow-rtl.png) no-repeat 0% 7px;
+}
+.rtl #menusys_mega .widget-right .mega-group span.has-image {
+	padding: 0 50px 0 0px;
+	background-position: 100% 5px;
+}
+#menusys_mega .menusub_mega .mega-group{
+	background: url("../images/mega/group-line-rtl.png") no-repeat  100% bottom ;
+}
+
+/***	ZT SLIDESHOW ***/
+.rtl .jv-proshow-intro a.readon{
+	float: right;
+}
+
+/*** zt-userwrap1 **/
+.rtl img.caption-left{
+	float:right;
+	margin: 0 0 3px 1em;
+}
+
+
+/** ZT MAINBODY ***/
+.rtl #mod_search_searchword{
+	background-position: 5px -108px;
+}
+
+
+/*** MODULE ***/
+.rtl img.caption {
+	margin: 0 0 10px 15px;
+	float: right;
+}
+
+.rtl ol li {
+	margin-right: 21px;
+	margin-left: 0;
+}
+ul li {
+	padding-left: 0;
+	padding-right: 20px;
+	background: url(../images/bullet.png) no-repeat 100% 7px;
+}
+
+.rtl ul.menu li a{
+	padding: 3px 15px 3px 0px;
+	background: url(../images/arrow-ul-rtl.png) no-repeat 99% 8px;
+}
+.rtl ul.menu li a:hover{
+	background: #f0f0f0 url(../images/arrow-ul-rtl.png) no-repeat 99% -34px;
+}
+.rtl ul.menu ul {
+	margin: 0px;
+	margin-right: -10px;
+	
+}
+.rtl ul.menu ul li  {
+	padding: 0;
+	padding-right: 20px;
+	width:auto;
+}
+
+.rtl h3.title,
+.rtl #zt-userwrap3 h3.title,
+.rtl #zt-userwrap4 h3.title {
+	background: url(../images/title-bg-rtl.png) no-repeat 100% bottom;
+}
+.rtl span.bt-icon1,
+.rtl span.bt-icon2,
+.rtl span.bt-icon3{
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+.rtl img.personal{
+	float: right;
+	margin: 0 0 0 15px;	
+}
+.rtl a.readon {float: left;}
+.rtl .artitle {
+    background: url(../images/bg-artitle.png) no-repeat 100% 0;
+    padding: 0 30px 0 0;
+}
+.rtl ul.latestnews li,
+.rtl ul.mostread li {
+	background: none;
+	padding: 0;
+}
+.rtl ul.latestnews li a,
+.rtl ul.mostread li a{
+	background: url("../images/arrow-ul-rtl.png") no-repeat scroll 99% 8px;
+	padding: 2px 15px 2px 0px;
+}
+.rtl ul.latestnews li a:hover,
+.rtl ul.mostread li a:hover{
+	background: url("../images/arrow-ul-rtl.png") no-repeat scroll 99% -34px;
+}

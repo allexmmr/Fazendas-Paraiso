@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.7">
+<name>Português Europeu</name>
+<packagename>pt-PT</packagename>
+<version>1.7.0</version>
+<url></url>
+<packager></packager>
+<packagerurl></packagerurl>
+<description>Pacote completo de Idioma Joomla 1.7 para Português Europeu com acordo ortográfico - Comunidade Portuguesa JoomlaPT!</description>
+<files>
+        <file type="language" client="site" id="pt-PT">site_pt-PT.zip</file>
+        <file type="language" client="admin" id="pt-PT">admin_pt-PT.zip</file>
+</files>
+</extension>
